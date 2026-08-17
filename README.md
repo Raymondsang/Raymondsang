@@ -8,8 +8,6 @@ I am a fullstack developer
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [raysang98@gmail.com](mailto:raysang98@gmail.com)
-* 🚀  I'm currently working on [An e-commerce website.](http://fashionyuva.vercel.app/,
-* https://coriass.com/)
 * 🧠  I'm learning AWS cloud computing, Web3 and Cyber security.
 * 🤝  I'm open to collaborating on Web3 websites, React SPA apps, Tech in Science apps.
 * ⚡  I am a tech in science enthusiast
