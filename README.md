@@ -23,18 +23,6 @@ A full-stack platform a land company uses to manage projects, plots, buyers, pay
 
 ---
 
-## 📂 Selected projects
-
-| Project | What it is | Stack | Live |
-|---|---|---|---|
-| [Evelynne portfolio](https://github.com/Raymondsang/Portfolio-website1) | Client portfolio site showcasing skills, achievements and career path | React, Tailwind | [visit](https://evelynne.vercel.app) |
-| [Farmcare Shop](https://github.com/Raymondsang/PHASE-2-Project-Farmcare-shop-) | Farm inputs shop with sign-up/login, product catalogue and farmer consultations | React, Firebase Auth, JSON Server | [visit](https://phase-2-project-farmcare-shop.vercel.app) |
-| [MAVAZIWEAR](https://github.com/Raymondsang/MAVAZIWEAR) | Clothing store landing page | HTML, CSS | [visit](https://raymondsang.github.io/MAVAZIWEAR/) |
-
-<!-- TODO: add a bioinformatics / lab-data project here once it's public -->
-
----
-
 ## 🧰 Tech I use
 
 **Daily:**
